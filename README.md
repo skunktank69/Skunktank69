@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skunktank69" alt="skunktank69" /></a> </p>
 
-- 🔭 I'm currently working on **[Mediaverse](https://github.com/skunktan69/mediaverse)**
+- 🔭 I'm currently working on 
 
 - 🌱 I'm currently learning **Rust**
 
